@@ -25,7 +25,7 @@ The **Real-Time Weather Monitoring System** is a web application that continuous
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-monitoring-app.git
+   git clone https://github.com/chaitrareddy1/weather-app
    cd weather-monitoring-app
    ```
 
